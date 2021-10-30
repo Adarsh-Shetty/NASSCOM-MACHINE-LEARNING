@@ -9,3 +9,7 @@ The dataset contains 7 columns and 5000 rows with CSV extension. The data contai
     ‘Area Population’ – Population of the city.
     ‘Price’ – Price that the house sold at.
     ‘Address’ – Address of the houses.
+
+Conclusion
+
+We have created a Linear Regression Model which we help the real state agent for estimating the house price. 
